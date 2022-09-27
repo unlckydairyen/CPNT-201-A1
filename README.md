@@ -1,6 +1,7 @@
 # CPNT-201-A1
 ## DERIAN VALDES
 ### Basketball Trainer
+
 Job entitles teaching athletes skills, fundamentals and the gameplay
 of basketball in class settings, camps, individual sessions and group sessions. 
 Specialized in teaching age groups 7-16, I follow a training regimend based
